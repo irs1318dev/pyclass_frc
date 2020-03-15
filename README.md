@@ -34,4 +34,7 @@ Participants who complete this course will be able to:
   repository to their local machine using git.
 
 # Getting Started
-[Python Course Session Intro](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master?filepath=index.ipynb)
+[Python Class Table of Contents](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master?filepath=index.ipynb)
+
+# Other Links
+[Jupyter Main Page for Python Class](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master)
