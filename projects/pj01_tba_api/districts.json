@@ -1,0 +1,68 @@
+[
+ {
+  "abbreviation": "chs", 
+  "display_name": "FIRST Chesapeake", 
+  "key": "2020chs", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "fim", 
+  "display_name": "FIRST In Michigan", 
+  "key": "2020fim", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "fma", 
+  "display_name": "FIRST Mid-Atlantic", 
+  "key": "2020fma", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "fnc", 
+  "display_name": "FIRST North Carolina", 
+  "key": "2020fnc", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "in", 
+  "display_name": "Indiana FIRST", 
+  "key": "2020in", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "isr", 
+  "display_name": "FIRST Israel", 
+  "key": "2020isr", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "ne", 
+  "display_name": "New England", 
+  "key": "2020ne", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "ont", 
+  "display_name": "Ontario", 
+  "key": "2020ont", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "pch", 
+  "display_name": "Peachtree", 
+  "key": "2020pch", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "pnw", 
+  "display_name": "Pacific Northwest", 
+  "key": "2020pnw", 
+  "year": 2020
+ }, 
+ {
+  "abbreviation": "tx", 
+  "display_name": "FIRST In Texas", 
+  "key": "2020tx", 
+  "year": 2020
+ }
+]
