@@ -37,4 +37,9 @@ Participants who complete this course will be able to:
 [Python Class Table of Contents](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master?filepath=index.ipynb)
 
 # Other Links
-[Jupyter Main Page for Python Class](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master)json
+* [Jupyter Main Page for Python Class](https://mybinder.org/v2/gh/irs1318dev/pyclass_frc/master)
+* [Old IRS Python Tutorial]https://github.com/irs1318dev/python_class/blob/master/sessions.md)
+* [Official Python Documentation](https://docs.python.org/3/index.html)
+* [Python Software Foundation](https://www.python.org/)
+
+
