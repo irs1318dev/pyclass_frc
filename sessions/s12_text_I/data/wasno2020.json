@@ -1,0 +1,2891 @@
+{
+    "Schedule": [
+        {
+            "description": "Qualification 1",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:00:00",
+            "matchNumber": 1,
+            "teams": [
+                {
+                    "teamNumber": 4131,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 2",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:09:00",
+            "matchNumber": 2,
+            "teams": [
+                {
+                    "teamNumber": 4205,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 3",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:18:00",
+            "matchNumber": 3,
+            "teams": [
+                {
+                    "teamNumber": 4918,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 4",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:27:00",
+            "matchNumber": 4,
+            "teams": [
+                {
+                    "teamNumber": 2522,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 5",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:36:00",
+            "matchNumber": 5,
+            "teams": [
+                {
+                    "teamNumber": 4915,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 6",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:45:00",
+            "matchNumber": 6,
+            "teams": [
+                {
+                    "teamNumber": 2930,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 7",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T11:54:00",
+            "matchNumber": 7,
+            "teams": [
+                {
+                    "teamNumber": 2976,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 8",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:03:00",
+            "matchNumber": 8,
+            "teams": [
+                {
+                    "teamNumber": 8248,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 9",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:11:00",
+            "matchNumber": 9,
+            "teams": [
+                {
+                    "teamNumber": 2930,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 10",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:19:00",
+            "matchNumber": 10,
+            "teams": [
+                {
+                    "teamNumber": 1899,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 11",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:27:00",
+            "matchNumber": 11,
+            "teams": [
+                {
+                    "teamNumber": 2928,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 12",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:35:00",
+            "matchNumber": 12,
+            "teams": [
+                {
+                    "teamNumber": 492,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 13",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:43:00",
+            "matchNumber": 13,
+            "teams": [
+                {
+                    "teamNumber": 4683,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 14",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T12:51:00",
+            "matchNumber": 14,
+            "teams": [
+                {
+                    "teamNumber": 4682,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 15",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:00:00",
+            "matchNumber": 15,
+            "teams": [
+                {
+                    "teamNumber": 2522,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 16",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:07:00",
+            "matchNumber": 16,
+            "teams": [
+                {
+                    "teamNumber": 7118,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 17",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:14:00",
+            "matchNumber": 17,
+            "teams": [
+                {
+                    "teamNumber": 1778,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 18",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:21:00",
+            "matchNumber": 18,
+            "teams": [
+                {
+                    "teamNumber": 4915,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 19",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:28:00",
+            "matchNumber": 19,
+            "teams": [
+                {
+                    "teamNumber": 949,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 20",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:35:00",
+            "matchNumber": 20,
+            "teams": [
+                {
+                    "teamNumber": 2903,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 21",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:42:00",
+            "matchNumber": 21,
+            "teams": [
+                {
+                    "teamNumber": 7461,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 22",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:49:00",
+            "matchNumber": 22,
+            "teams": [
+                {
+                    "teamNumber": 4309,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 23",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T14:56:00",
+            "matchNumber": 23,
+            "teams": [
+                {
+                    "teamNumber": 4089,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 24",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:03:00",
+            "matchNumber": 24,
+            "teams": [
+                {
+                    "teamNumber": 1294,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 25",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:10:00",
+            "matchNumber": 25,
+            "teams": [
+                {
+                    "teamNumber": 492,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 26",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:17:00",
+            "matchNumber": 26,
+            "teams": [
+                {
+                    "teamNumber": 1899,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 27",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:24:00",
+            "matchNumber": 27,
+            "teams": [
+                {
+                    "teamNumber": 7118,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 28",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:31:00",
+            "matchNumber": 28,
+            "teams": [
+                {
+                    "teamNumber": 1318,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 29",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:38:00",
+            "matchNumber": 29,
+            "teams": [
+                {
+                    "teamNumber": 2412,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 30",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:45:00",
+            "matchNumber": 30,
+            "teams": [
+                {
+                    "teamNumber": 4089,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 31",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T15:52:00",
+            "matchNumber": 31,
+            "teams": [
+                {
+                    "teamNumber": 4131,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 32",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:15:00",
+            "matchNumber": 32,
+            "teams": [
+                {
+                    "teamNumber": 7461,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 33",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:22:00",
+            "matchNumber": 33,
+            "teams": [
+                {
+                    "teamNumber": 8059,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 34",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:29:00",
+            "matchNumber": 34,
+            "teams": [
+                {
+                    "teamNumber": 3070,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 35",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:36:00",
+            "matchNumber": 35,
+            "teams": [
+                {
+                    "teamNumber": 2903,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 36",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:43:00",
+            "matchNumber": 36,
+            "teams": [
+                {
+                    "teamNumber": 4513,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 37",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:50:00",
+            "matchNumber": 37,
+            "teams": [
+                {
+                    "teamNumber": 5588,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 38",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T16:57:00",
+            "matchNumber": 38,
+            "teams": [
+                {
+                    "teamNumber": 2910,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 39",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:04:00",
+            "matchNumber": 39,
+            "teams": [
+                {
+                    "teamNumber": 1778,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 40",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:11:00",
+            "matchNumber": 40,
+            "teams": [
+                {
+                    "teamNumber": 5588,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 41",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:18:00",
+            "matchNumber": 41,
+            "teams": [
+                {
+                    "teamNumber": 2976,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 42",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:25:00",
+            "matchNumber": 42,
+            "teams": [
+                {
+                    "teamNumber": 2903,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 43",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:32:00",
+            "matchNumber": 43,
+            "teams": [
+                {
+                    "teamNumber": 4915,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 44",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:39:00",
+            "matchNumber": 44,
+            "teams": [
+                {
+                    "teamNumber": 2928,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 45",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:46:00",
+            "matchNumber": 45,
+            "teams": [
+                {
+                    "teamNumber": 7118,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 46",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T17:53:00",
+            "matchNumber": 46,
+            "teams": [
+                {
+                    "teamNumber": 5588,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 47",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:00:00",
+            "matchNumber": 47,
+            "teams": [
+                {
+                    "teamNumber": 4683,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 48",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:07:00",
+            "matchNumber": 48,
+            "teams": [
+                {
+                    "teamNumber": 4173,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 49",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:14:00",
+            "matchNumber": 49,
+            "teams": [
+                {
+                    "teamNumber": 7627,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 50",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:21:00",
+            "matchNumber": 50,
+            "teams": [
+                {
+                    "teamNumber": 4918,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 51",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:28:00",
+            "matchNumber": 51,
+            "teams": [
+                {
+                    "teamNumber": 4681,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 52",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:35:00",
+            "matchNumber": 52,
+            "teams": [
+                {
+                    "teamNumber": 492,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 53",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:42:00",
+            "matchNumber": 53,
+            "teams": [
+                {
+                    "teamNumber": 4309,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 54",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:49:00",
+            "matchNumber": 54,
+            "teams": [
+                {
+                    "teamNumber": 4180,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 55",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T18:56:00",
+            "matchNumber": 55,
+            "teams": [
+                {
+                    "teamNumber": 4173,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 56",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T19:03:00",
+            "matchNumber": 56,
+            "teams": [
+                {
+                    "teamNumber": 4512,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 57",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T19:10:00",
+            "matchNumber": 57,
+            "teams": [
+                {
+                    "teamNumber": 4911,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 58",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T19:17:00",
+            "matchNumber": 58,
+            "teams": [
+                {
+                    "teamNumber": 4205,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 59",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-02-29T19:24:00",
+            "matchNumber": 59,
+            "teams": [
+                {
+                    "teamNumber": 4918,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 60",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T09:30:00",
+            "matchNumber": 60,
+            "teams": [
+                {
+                    "teamNumber": 3268,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 61",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T09:39:00",
+            "matchNumber": 61,
+            "teams": [
+                {
+                    "teamNumber": 3070,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 62",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T09:48:00",
+            "matchNumber": 62,
+            "teams": [
+                {
+                    "teamNumber": 1294,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7627,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 63",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T09:55:00",
+            "matchNumber": 63,
+            "teams": [
+                {
+                    "teamNumber": 8059,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3826,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 64",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:02:00",
+            "matchNumber": 64,
+            "teams": [
+                {
+                    "teamNumber": 1899,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 5588,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4683,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 65",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:09:00",
+            "matchNumber": 65,
+            "teams": [
+                {
+                    "teamNumber": 2976,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4911,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 66",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:16:00",
+            "matchNumber": 66,
+            "teams": [
+                {
+                    "teamNumber": 4180,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 67",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:23:00",
+            "matchNumber": 67,
+            "teams": [
+                {
+                    "teamNumber": 8248,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2910,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 68",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:30:00",
+            "matchNumber": 68,
+            "teams": [
+                {
+                    "teamNumber": 492,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7461,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 69",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:37:00",
+            "matchNumber": 69,
+            "teams": [
+                {
+                    "teamNumber": 5588,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2903,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8059,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3268,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2976,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4180,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 70",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:44:00",
+            "matchNumber": 70,
+            "teams": [
+                {
+                    "teamNumber": 7627,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 949,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4089,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4205,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2930,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2412,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 71",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:51:00",
+            "matchNumber": 71,
+            "teams": [
+                {
+                    "teamNumber": 3826,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8248,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4915,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4173,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 3070,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1899,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 72",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T10:58:00",
+            "matchNumber": 72,
+            "teams": [
+                {
+                    "teamNumber": 4911,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4682,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 7118,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4131,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1778,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2522,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 73",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T11:05:00",
+            "matchNumber": 73,
+            "teams": [
+                {
+                    "teamNumber": 4683,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1294,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 2928,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4512,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4918,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 492,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        },
+        {
+            "description": "Qualification 74",
+            "field": "Primary",
+            "tournamentLevel": "Qualification",
+            "startTime": "2020-03-01T11:12:00",
+            "matchNumber": 74,
+            "teams": [
+                {
+                    "teamNumber": 2910,
+                    "station": "Red1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4513,
+                    "station": "Red2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 8032,
+                    "station": "Red3",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4309,
+                    "station": "Blue1",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 1318,
+                    "station": "Blue2",
+                    "surrogate": false
+                },
+                {
+                    "teamNumber": 4681,
+                    "station": "Blue3",
+                    "surrogate": false
+                }
+            ]
+        }
+    ]
+}
+
