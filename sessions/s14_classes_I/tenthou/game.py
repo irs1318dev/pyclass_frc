@@ -31,8 +31,8 @@ class HumanPlayer(Player):
         return inp == "y"
 
     def decide_table(self, turn):
-        prompt = ("Which dice would you like to table?"
-                  "\nEnter single digit for each die, with no spaces, e.g 115.\n")
+        prompt = ("Which dice would you like to table?\n"
+                  "Enter single digit for each die, with no spaces, e.g 115.\n")
         inp = input(prompt)
         self.check_quit(inp, turn)
         return inp
@@ -76,7 +76,7 @@ class Game():
             quit_early = True
         self.end_game(quit_early)
 
-    def play_round(self, round, sleep):
+    def play_round(self, num_round, sleep):
         print("##### Beginning round", num_round, "###############")
         print(f"{self.player1.name}'s Score: {self.player1.score}",
             f"\t{self.player2.name}'s Score: {self.player2.score}\n")

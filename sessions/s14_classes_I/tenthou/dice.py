@@ -2,18 +2,42 @@ import random
 import re
 
 class Die():
+    """A single six-sided die.
+    
+    Attributes:
+        value: An integer between 1 and 6 inclusive.
+        roll(): Assigns a random integer to the value attribute,
+            between 1 and 6 inclusive.
+    """
     def __init__(self, val=None):
+        """Constructor for a six-sided die.
+        
+        Args:
+            val: Optional. Accepts an integer value between 1
+                6 inclusive, which becomes the die's initial value.
+                If omitted, a random integer is assigned.
+                
+        Raises:
+            ValueError if val is an integer but not between 1 and 6.
+            TypeError if val is not an integer.
+        """
         if val is None:
-            self.value = None
-        elif isinstance(val, int) and val >= 1 and val <= 6:
-            self.value = val
+            self.roll()
+        elif not isinstance(val, int):
+            raise TypeError(f"val is not an integer: {type(val)}")
+        elif val < 1 or val > 6:
+            raise ValueError(f"val not between 1 and 6: {val}")
         else:
-            raise ValueError(f"Incorrect Die Value: {val}")
+            self.value = val
     
     def roll(self):
+        """Rolls the die, generating a new random value from 1 to 6.
+        """
         self.value = random.randint(1, 6)
 
     def __str__(self):
+        """Causes print() and str() to show the die's value.
+        """
         return str(self.value)
 
 
