@@ -23,6 +23,7 @@ class Die():
         """
         if val is None:
             self.roll()
+            print("rolling die!!!!!")
         elif not isinstance(val, int):
             raise TypeError(f"val is not an integer: {type(val)}")
         elif val < 1 or val > 6:
@@ -42,29 +43,66 @@ class Die():
 
 
 class Dice():
+    """A group of dice used to play Ten Thousand.
+    
+    Attributes:
+        __init__(): Takes no arguments.
+        add_die(): Adds a die to the group.
+        add_dice(): Adds a list of dice to the group.
+        ones: The number of die that have value 1.
+        fives: The number of die that have value 5.
+        triple: Indicates if there are three or more die with
+            value 2, 3, 4, or 6.
+        score: The score, counting all dice.
+        scored_dice: The number of dice that score points.
+    """
     def __init__(self):
+        """Constructs a new Dice object.
+        """
         self.dice = []
+        # Tracks how many dice have each value.
         self.counts = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
 
     def add_die(self, die):
+        """Adds a single die to the Dice.
+        
+        Args:
+            die: A tenthou.dice.Die object.
+        """
         self.dice.append(die)
         if die.value is not None:
             self.counts[die.value] += 1
 
     def add_dice(self, dice):
+        """Adds a list of dice to the Dice object.
+        
+        Args:
+            dice: A Python list of tenthou.dice.Die objects.
+        """
         for die in dice:
             self.add_die(die)
 
     @property
     def ones(self):
+        """The number of dice with value 1."""
         return self.counts[1]
 
     @property
     def fives(self):
+        """The number of dice with value 5."""
         return self.counts[5]
 
     @property
     def triple(self):
+        """Indicates if there are 3 or more die with the same value.
+        
+        The possible values are 0, 2, 3, 4, and 6. The die with value
+        1 or 5 have no impact on this property. Use the ones or fives
+        properties to see how many 1 or 5 die are in the group. If 0,
+        there are no triples. If 2, then there is are three or more die
+        with value 2. If 3, there are three or more die with value 3,
+        etc.
+        """
         for key, val in self.counts.items():
             if key not in [1, 5]:
                 if val >= 3:
@@ -73,6 +111,7 @@ class Dice():
         
     @property
     def score(self):
+        """The points available from 1s, 5s, and triples."""
         return (
             self.fives +
             2 * self.ones +
@@ -82,6 +121,8 @@ class Dice():
 
     @property
     def scored_dice(self):
+        """The number of dice that score points.
+        """
         return self.fives + self.ones + (3 if self.triple != 0 else 0)
 
     def __len__(self):
