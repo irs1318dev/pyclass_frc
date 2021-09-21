@@ -37,7 +37,7 @@ Participants who complete this course will be able to:
 [Python Class Table of Contents](https://colab.research.google.com/github/irs1318dev/pyclass_frc/blob/master/index.ipynb)
 
 # Other Links
-* [Old IRS Python Tutorial]https://github.com/irs1318dev/python_class/blob/master/sessions.md)
+* [Old IRS Python Tutorial](https://github.com/irs1318dev/python_class/blob/master/sessions.md)
 * [Official Python Documentation](https://docs.python.org/3/index.html)
 * [Python Software Foundation](https://www.python.org/)
 
