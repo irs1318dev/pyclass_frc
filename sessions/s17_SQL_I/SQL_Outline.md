@@ -28,18 +28,11 @@
 ### B. Database schemas
 * cell: SELECT sql FROM sqlite_schema ...
 #### Pragma Queries
-## IV. Joining Tables ##MOVE##
 * cell: SELECT * FROM schedule ...
 * cell: schedule LEFT JOIN teams ...
-## V. Updating Records ##MOVE TO PART II##
-* cell: UPDATE teams
 ## VI. Running Queries
 ### A. read_sql_query()
-### B. connection.execute() ##MOVE##
-* commit
-* rollback
-###  C. Closing Connections
-### D. Using Cursors ##MOVE##
+### C. Closing Connections
 ### E. SQLite on Command Line
 ### Mathematical Calculations in SQL
 ### Exercises
