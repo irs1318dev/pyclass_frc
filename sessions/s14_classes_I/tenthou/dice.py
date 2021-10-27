@@ -23,7 +23,7 @@ class Die():
         """
         if val is None:
             self.roll()
-            print("rolling die!!!!!")
+            # print("rolling die!!!!!")
         elif not isinstance(val, int):
             raise TypeError(f"val is not an integer: {type(val)}")
         elif val < 1 or val > 6:
@@ -45,6 +45,8 @@ class Die():
 class Dice():
     """A group of dice used to play Ten Thousand.
     
+    This class is used both for tabled and untabled dice.
+    
     Attributes:
         __init__(): Takes no arguments.
         add_die(): Adds a die to the group.
@@ -55,13 +57,15 @@ class Dice():
             value 2, 3, 4, or 6.
         score: The score, counting all dice.
         scored_dice: The number of dice that score points.
+        counts: dict, number of dice with each value.
+            Has keys 1 - 6.
     """
     def __init__(self):
         """Constructs a new Dice object.
         """
         self.dice = []
         # Tracks how many dice have each value.
-        self.counts = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+        self._counts = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
 
     def add_die(self, die):
         """Adds a single die to the Dice.
@@ -71,7 +75,7 @@ class Dice():
         """
         self.dice.append(die)
         if die.value is not None:
-            self.counts[die.value] += 1
+            self._counts[die.value] += 1
 
     def add_dice(self, dice):
         """Adds a list of dice to the Dice object.
@@ -85,12 +89,12 @@ class Dice():
     @property
     def ones(self):
         """The number of dice with value 1."""
-        return self.counts[1]
+        return self._counts[1]
 
     @property
     def fives(self):
         """The number of dice with value 5."""
-        return self.counts[5]
+        return self._counts[5]
 
     @property
     def triple(self):
@@ -103,7 +107,7 @@ class Dice():
         with value 2. If 3, there are three or more die with value 3,
         etc.
         """
-        for key, val in self.counts.items():
+        for key, val in self._counts.items():
             if key not in [1, 5]:
                 if val >= 3:
                     return key
@@ -126,16 +130,31 @@ class Dice():
         return self.fives + self.ones + (3 if self.triple != 0 else 0)
 
     def __len__(self):
+        """Number of dice in set."""
         return len(self.dice)
 
     def __str__(self):
+        """String showing values of all dice in set."""
         return " | ".join([str(die) for die in self.dice])
 
 
 
 class RollableDice(Dice):
+    """The untabled dice used in the game TenThousand.
+    
+    Inherits from Dice class.
+    
+    Unatabled dice can still be rolled. Therefore this class
+    contains a method for rolling the dice.
+    """
 
     def __init__(self, values=None, num_dice=5):
+        """Initialized a RollableDice object.
+        
+        Args:
+            values: [integer], list of dice values.
+            num_dice: integer, number of dice in set.
+        """
         super().__init__()
 
         if values is None:
@@ -145,18 +164,33 @@ class RollableDice(Dice):
             self.add_die(Die(val))
 
     def roll(self):
-        self.counts = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
+        """Roll all dice in set.
+        
+        Assigns a random number, 1 - 6, to each die in set.
+        """
+        self._counts = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0}
         for die in self.dice:
             die.roll()
-            self.counts[die.value] += 1
+            self._counts[die.value] += 1
 
     def remove_dice(self, dice):
+        """Removes dice from set. Used for tabling dice.
+        
+        Args:
+            dice: string, contains integers 1 - 6 representing
+                dice that should be removed.
+                
+        Returns: list of removed Die objects.
+        """
+        # Check if no dice are to be removed
+        if dice == "-":
+            return []
         # Check that dice contains only digits 1 - 6
         if re.fullmatch(r"[1-6]{1,5}", dice) is None:
             return "Invalid Input. Enter up to five digits 1 through 6."
         # Check that all dice were present in roll and scorable
         for val in range(1, 7):
-            if dice.count(str(val)) > self.counts[val]:
+            if dice.count(str(val)) > self._counts[val]:
                 return f"You entered too many {val}'s."
         # Check that exactly three die entered for die not 1 or 5.
         for die_val in dice:
@@ -169,7 +203,7 @@ class RollableDice(Dice):
                 if die.value == int(die_val):
                     removed_dice.append(die)
                     del self.dice[idx]
-                    self.counts[int(die_val)] -= 1
+                    self._counts[int(die_val)] -= 1
                     break
         return removed_dice
 

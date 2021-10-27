@@ -8,6 +8,13 @@ import tenthou.game as game
 
 
 def main():
+    """Top-level function for TenThosand dice game.
+    
+    This dice game is played from the command line. It is a two-
+    player game with one human and one computer player.
+    """
+    
+    # Introduction
     print("\n-----10000-----10000-----100000-----100000")
     name = input(f"Hello. My name is Ona. What's your name?.\n")
     print("Let's Play 10,000! I will go first.")
@@ -16,6 +23,7 @@ def main():
     print("I will go first.\n")
     time.sleep(1)
 
+    # Setup and start game
     human_player = game.HumanPlayer(name)
     computer_player = game.ComputerPlayer("Ona")
     dicegame = game.Game(computer_player, human_player)
