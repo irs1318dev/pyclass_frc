@@ -17,6 +17,7 @@ cd images
 wget -nv $base_url/images/window-query.png
 cd ..
 mkdir SQL15Days
+cd ..
 wget -nv $base_url/SQL15Days/GenSQLData15Days.ipynb
 wget -nv $base_url/SQL15Days/SQL15Days.ipynb
 wget -nv $base_url/SQL15Days/sql15days.sqlite3
