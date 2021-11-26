@@ -20,6 +20,6 @@ mkdir SQL15Days
 wget -nv $base_url/SQL15Days/GenSQLData15Days.ipynb
 wget -nv $base_url/SQL15Days/SQL15Days.ipynb
 wget -nv $base_url/SQL15Days/sql15days.sqlite3
-wget -nv $base_url/us-names.txt
+wget -nv $base_url/SQL15Days/us-names.txt
 cd ..
 echo File Downloads Complete!.
